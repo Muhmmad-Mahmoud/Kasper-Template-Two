@@ -1395,6 +1395,7 @@ footer .foot h3{
 
 /*font awesome*/
 .fa-regular{
+    font-weight: 900;
   display: none;
   font-size: 22px;
 }
